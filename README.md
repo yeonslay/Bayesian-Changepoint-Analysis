@@ -1,1 +1,1 @@
-# bayesian-changepoint-analysis
+# Bayesian-Changepoint-Analysis
